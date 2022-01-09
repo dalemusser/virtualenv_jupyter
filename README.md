@@ -4,7 +4,9 @@ Information on using python virtual environments with Jupyter Notebooks.
 
 Source: <https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415>
 
-If *virtualenv* is not installed, do so using: pip install virtualenv
+If *virtualenv* is not installed, install it.
+
+>pip install virtualenv
 
 1. Create a virtual environment using virtualenv. The following uses a virtualenv named "virt1jupyter".
 
