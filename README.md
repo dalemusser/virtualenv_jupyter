@@ -28,7 +28,7 @@ It tells you where it installs the kernal that is the virtual environment. For m
 
 > /Users/dalemusser/Library/Jupyter/kernels/testjupyter1
 
-In that directory is kernel.json that has the information Jupyter uses to know about this virtual environment kernel.
+In that directory is *kernel.json* that has the information Jupyter uses to know about this virtual environment kernel.
 
 5. Open Jupyter Notebook and select *virt1jupyter* as the kernel for a new Notebook or go to *Kernel > Change kernel > virt1jupyter* to change the kernel.
 
