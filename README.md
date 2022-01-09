@@ -8,7 +8,7 @@ If *virtualenv* is not installed, install it.
 
 >pip install virtualenv
 
-1. Create a virtual environment using virtualenv. The following uses a virtualenv named "virt1jupyter".
+1. Create a virtual environment using virtualenv. The following uses a virtualenv named *virt1jupyter*.
 
 > virtualenv virt1jupyter
 
