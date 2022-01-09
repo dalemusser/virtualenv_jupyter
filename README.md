@@ -16,7 +16,7 @@ If *virtualenv* is not installed, do so using: pip install virtualenv
 
 3. Install *ipykernal* using pip.
 
-> pip install ipykernal
+> pip install ipykernel
 
 4. Add the virtual environment to Jupyter.
 
